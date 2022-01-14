@@ -17,4 +17,4 @@ Check out my <a href="http://DanielHerbert.ca" target="_blank">Portfolio Site</a
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iisdan&langs_count=8)](https://github.com/iisdan/github-readme-stats) -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iisdan&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iisdan&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
