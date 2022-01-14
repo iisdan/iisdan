@@ -1,10 +1,12 @@
 <img src="https://github.com/iisdan/iisdan/blob/main/githeader.png?raw=true" style="width: 100%;">
 <br/>
 
+# My name is Dan Herbert 👋
+
 [![LinkedIn Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://DanielHerbert.ca)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iisdan/)
 
-My name is Dan Herbert 👋, and I'm a Full Stack Developer near Kitchener Ontario. My favourite things are gaming, movies and coding.
+I'm a Full Stack Developer near Kitchener Ontario. My favourite things are gaming, movies and coding.
 <br/><br/>
 I've been fascinated with code all my life and began coding professionally in 2009 on web-based dental software. Over the years, I have built a diverse background working on full-time, freelance and personal projects. 
 <br/><br/>
