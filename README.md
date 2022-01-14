@@ -3,8 +3,7 @@
 
 # Hey there 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://DanielHerbert.ca)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iisdan/)
+
 
 Welcome to my profile! I'm a Full Stack Developer near Kitchener Ontario. My favourite things are gaming, movies and coding.
 <br/><br/>
@@ -12,7 +11,12 @@ I've been fascinated with code all my life and began coding professionally in 20
 <br/><br/>
 I've learned how to work in a blameless team environment, train new developers, share knowledge, accept and learn from failure, continuously integrate, and so much more. I'm inspired to see how I can evolve with technology and culture over the next decade. 
 
-## I use these a lot
+## More about me
+
+[![LinkedIn Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://DanielHerbert.ca)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iisdan/)
+
+## What I use
 
 [![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
