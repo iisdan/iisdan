@@ -1,5 +1,5 @@
 <img src="https://github.com/iisdan/iisdan/blob/main/githeader.png?raw=true" style="width: 100%;">
-<br/>
+
 
 # Hello 👋
 
@@ -11,7 +11,6 @@ I've learned how to work in a blameless team environment, train new developers, 
 <br/><br/>
 Check out my <a href="http://DanielHerbert.ca" target="_blank">Portfolio Site</a>
 
-<br/>
 
 # Stats
 
