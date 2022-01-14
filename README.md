@@ -1,7 +1,5 @@
 <img src="https://github.com/iisdan/iisdan/blob/main/githeader.png?raw=true" style="width: 100%;">
 
-![Visitor Count](https://profile-counter.glitch.me/iisdan/count.svg)
-
 ## Hi there 👋
 
 My name is Dan Herbert, and I'm a Full Stack Developer near Kitchener Ontario. My favourite things are gaming, movies and coding.
