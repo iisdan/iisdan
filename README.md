@@ -12,8 +12,9 @@ I've been fascinated with code all my life and began coding professionally in 20
 <br/><br/>
 I've learned how to work in a blameless team environment, train new developers, share knowledge, accept and learn from failure, continuously integrate, and so much more. I'm inspired to see how I can evolve with technology and culture over the next decade. 
 
+## I use these a lot
 
-
+[![Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 [![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)]()
 [![Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()
