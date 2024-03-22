@@ -11,7 +11,7 @@ I've learned how to work in a blameless team environment, train new developers, 
 ## More About Me
 
 [![LinkedIn Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://DanielHerbert.ca)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/iisdan/](https://www.linkedin.com/in/dan-herbert-7889b654/)](https://www.linkedin.com/in/dan-herbert-7889b654/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dan-herbert-7889b654/)
 
 ## Top Skills
 
