@@ -20,3 +20,5 @@ I've learned how to work in a blameless team environment, train new developers, 
 [![Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
 [![Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
 [![Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
+
+[Resume May 19 2025.pdf](https://github.com/user-attachments/files/20299572/Resume.May.19.2025.pdf)
